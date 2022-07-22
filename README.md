@@ -6,6 +6,7 @@
 ```
 zig init-exe
 zig build run
+./zig-out/bin/zig
 ```
 
 ### Docker
